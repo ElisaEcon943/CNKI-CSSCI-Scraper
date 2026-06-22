@@ -22,7 +22,7 @@ WebDriver: 需安装与 Edge 版本匹配的 msedgedriver。
 🚀 快速开始
 1. 克隆仓库
 Bash
-git clone https://github.com/你的用户名/CNKI-CSSCI-Scraper.git
+git clone https://github.com/ElisaEcon943/CNKI-CSSCI-Scraper.git
 cd CNKI-CSSCI-Scraper
 2. 安装依赖
 Bash
